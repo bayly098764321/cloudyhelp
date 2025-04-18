@@ -1,0 +1,12 @@
+C:\Users\cilli\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.exe.config
+C:\Users\cilli\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.exe
+C:\Users\cilli\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.pdb
+C:\Users\cilli\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Release\CloudyApis.dll
+C:\Users\cilli\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\cilli\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.Form1.resources
+C:\Users\cilli\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\cilli\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\cilli\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\cilli\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Release\WindowsF.A1EEDF9B.Up2Date
+C:\Users\cilli\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.exe
+C:\Users\cilli\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.pdb
